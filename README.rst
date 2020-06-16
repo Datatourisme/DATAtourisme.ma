@@ -1,7 +1,7 @@
 DATAtourisme.ma: le portail de données open source
 ==================================================
 
-https://datatourisme.ma/ DATAtourisme permet de visualiser les établissements ouverts au public qui respectent les mesures sanitaires
+DATAtourisme permet de visualiser les établissements ouverts au public qui respectent les mesures sanitaires
 
 C'est un projet national collaboratif, pour lequel des acteurs publics et privés œuvrent collectivement à la création d’un outil au service de l’attractivité et de la compétitivité de l’offre touristique marocaine.
 
@@ -16,3 +16,6 @@ DATAtourisme vise à créer un écosystème autour de l’information touristiqu
 Le Maroc croit au pouvoir des données ouvertes. Nous invitons tout le monde à rechercher et à explorer notre portail de données et à s'engager avec nos données pour créer des solutions innovantes. Nous pensons que le portail de données ouvert de rapprochera le gouvernement des citoyens et lancera une nouvelle conversation partagée pour la croissance et le progrès du Royaume.
 
 DATAtourisme permet de publier, partager et utiliser des jeux de données publiques facilement. 
+
+https://datatourisme.ma/
+
