@@ -24,7 +24,8 @@ Le portail marocain de données touristiques open source
     :target: https://gitter.im/ckan/chat
     :alt: Chat on Gitter
     
-    
+ ========================================================
+
     
 **DATAtourisme** permet de visualiser les établissements ouverts au public qui respectent les mesures sanitaires
 
