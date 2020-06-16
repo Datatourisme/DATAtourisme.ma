@@ -1,5 +1,5 @@
-DATAtourisme.ma: le portail de données open source
-==================================================
+Le portail marocain de données touristiques open source
+========================================================
 
 **DATAtourisme** permet de visualiser les établissements ouverts au public qui respectent les mesures sanitaires
 
